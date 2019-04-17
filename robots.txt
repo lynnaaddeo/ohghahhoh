@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rohciophe.benjystanton.co.uk/sitemap.xml
